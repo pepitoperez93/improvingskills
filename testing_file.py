@@ -1,2 +1,5 @@
-print('It seems we are having success on Git')
-print('If we keep  going, we will be experts in a short time!')
+print('It seems we are having success on Git.')
+print('If we keep  going, we will be experts in a short time!.')
+print('The more times we try, the more that we will learn about it.')
+print('It will be just a matter of time until we land our first job for us to use these new skills.')
+print('We will succeed in data science!.')
